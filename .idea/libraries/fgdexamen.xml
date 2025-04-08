@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="fgdexamen">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/ud2/fgdexamen.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
